@@ -1,7 +1,9 @@
 # Android-Common-Proguard-Rules
-List of most common ProGuard rules for android
 
-ProGuard is most popular optimizer for java.
+ProGuard is most popular optimizer for java bytecode.
+
+List of most common ProGuard rules for android.
+
 
 ## All rules are not tested by me, please add rules you know.
 
